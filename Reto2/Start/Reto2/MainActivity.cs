@@ -13,8 +13,6 @@ namespace Reto2
     public class MainActivity : Activity
     {
         Button btnSiguiente;
-        TextView textViewPrivacidad;
-        TextView textViewURLPrivacidad;
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
@@ -37,8 +35,7 @@ namespace Reto2
             if (requestCode == 1 && resultCode == Result.Ok)
             {
                 btnSiguiente.Visibility = Android.Views.ViewStates.Invisible;
-                textViewURLPrivacidad.Text = string.Empty;
-                textViewPrivacidad.Text = "Haz concluido la actividad. Espera más noticias sobre el próximo reto";
+                Toast.MakeText(this, "Felicidades! Reto 2 completado.", ToastLength.Long).Show();
             }
         }
     }
