@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Reportar">Registrar</string>
+  <string name="Siguiente">Siguiente</string>
+  <string name="ApplicationName">Xamarin Championship - Reto 2</string>
+  <string name="Bienvenida">Este reto consiste en construir una pequeña interface de usuario en una aplicación android con dos actividades.</string>
+  <string name="AvisoPrivacidad">Declaración de privacidad de Microsoft</string>
+  <string name="UrlPrivacidad">https://privacy.microsoft.com/es-mx/privacystatement</string>
+</resources>
