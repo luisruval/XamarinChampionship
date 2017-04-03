@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Reportar">Registrar</string>
+  <string name="Siguiente">Siguiente</string>
+  <string name="ApplicationName">Xamarin Championship - Reto 4</string>
+  <string name="Bienvenida">Este reto consiste en realizar una consulta a la base de datos del campeonato.</string>
+  <string name="AvisoPrivacidad">Declaración de privacidad de Microsoft</string>
+  <string name="UrlPrivacidad">https://privacy.microsoft.com/es-mx/privacystatement</string>
+</resources>
