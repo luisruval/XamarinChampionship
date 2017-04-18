@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Registro">Registrar</string>
+  <string name="ApplicationName">Xamarin Championship - Reto 5</string>
+  <string name="Bienvenida">Este reto consiste en utlizar SQL Lite y Offline Sync</string>
+  <string name="AvisoPrivacidad">Declaración de privacidad de Microsoft</string>
+  <string name="UrlPrivacidad">https://privacy.microsoft.com/es-mx/privacystatement</string>
+</resources>
