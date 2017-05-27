@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:text="@string/Bienvenida"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewResult" />
+    <ImageView
+        android:src="@drawable/cinturon"
+        android:layout_width="match_parent"
+        android:layout_height="330dp"
+        android:id="@+id/imageViewCinturon" />
+    <Button
+        android:id="@+id/btnSiguiente"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Siguiente" />
+    <TextView
+        android:text="@string/AvisoPrivacidad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewAvisoPrivacidad"
+        android:layout_marginBottom="10.0dp" />
+    <TextView
+        android:text="@string/UrlPrivacidad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewUrlPrivacidad" />
+</LinearLayout>
