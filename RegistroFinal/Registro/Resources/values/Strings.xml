@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Reportar">Registrar</string>
+  <string name="ApplicationName">Registro Final Xamarin Championship</string>
+  <string name="Bienvenida">Gracias por tu registro al Hackathon de Xamarin Championship. Completa tu perfil en el código fuente y da click en registrar.</string>
+  <string name="AvisoPrivacidad">Declaración de privacidad de Microsoft</string>
+  <string name="UrlPrivacidad">https://privacy.microsoft.com/es-mx/privacystatement</string>
+</resources>
